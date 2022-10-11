@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+}
+.short{
+    position: absolute;
+    height: 15rem;
+    width: 20rem;
+    margin-top: 30px;
+    margin-left: 1200px;
+}
+.short .shortcut{
+    margin-left: 10px;
+    font-size: 30px;
+    padding-bottom: 10px;
+}
+.s{
+
+    position:absolute;
+    background: rgba(255, 255, 255, .06);
+    box-shadow: 5px 0 3px rgba(0, 0, 0, .4);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-right: 1px solid rgba(255, 255, 255, .15);
+    height: 50px;
+    text-align: center;
+    padding-top: 12px;
+    font-size: 20px;
+    border-radius: 100px;
+}
+.hop{
+    margin-left: 150px;
+    width: 105px;
+}
+.chill{
+    width: 140px;
+}
+.Accoustic{
+    margin-top: 65px;
+    width: 150px;
+}
+.pop{
+    width: 160px;
+    margin-top: 65px;
+    margin-left: 160px;
+}
+.jazz{
+    width: 120px;
+    margin-top: 130px;
+    margin-left: 170px;
+}
+.piano{
+    width: 160px;
+    margin-top: 130px;;
+}
